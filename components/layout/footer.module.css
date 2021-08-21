@@ -44,16 +44,6 @@
 	color: var(--color-grey-200);
 }
 
-@media (max-width: 568px) {
-	.footer nav {
-		margin-top: 2rem;
-	}
-
-	.footer {
-		font-size: var(--size-5);
-	}
-}
-
 .copyRight a {
 	margin: 0 7px;
 	color: var(--color-grey-50);
@@ -62,4 +52,18 @@
 .copyRight a:hover {
 	text-decoration: underline;
 	color: var(--color-grey-200);
+}
+
+@media (max-width: 568px) {
+	.footer nav {
+		margin-top: 2rem;
+	}
+
+	.footer {
+		font-size: var(--size-4);
+	}
+
+	.footer .icon {
+		font-size: var(--size-6);
+	}
 }

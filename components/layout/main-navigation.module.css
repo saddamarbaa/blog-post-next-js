@@ -28,7 +28,7 @@
 
 .header a {
 	color: var(--color-grey-100);
-	font-size: var(--size-4);
+	font-size: 1.1rem;
 }
 
 .header a:hover,
