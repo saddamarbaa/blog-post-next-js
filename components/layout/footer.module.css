@@ -55,6 +55,9 @@
 }
 
 @media (max-width: 568px) {
+	.footer {
+		justify-content: center;
+	}
 	.footer nav {
 		margin-top: 2rem;
 	}

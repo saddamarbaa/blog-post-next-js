@@ -11,6 +11,12 @@
 	font-size: var(--size-6);
 }
 
+@media (max-width: 568px) {
+	.contact {
+		width: 85%;
+	}
+}
+
 .contact h1 {
 	font-size: var(--size-8);
 	margin: var(--size-4) 0;
@@ -79,5 +85,16 @@
 	.contact h1 {
 		font-size: var(--size-16);
 		text-align: center;
+	}
+}
+
+@media (max-width: 568px) {
+	.contact {
+		width: 85%;
+		font-size: var(--size-4);
+	}
+
+	.contact h1 {
+		font-size: var(--size-5);
 	}
 }
