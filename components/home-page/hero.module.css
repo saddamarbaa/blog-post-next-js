@@ -8,6 +8,8 @@
 		var(--color-grey-800)
 	);
 	padding: var(--size-8) 0;
+	padding: 8rem 9%;
+	padding-top: 12rem;
 }
 
 .image {

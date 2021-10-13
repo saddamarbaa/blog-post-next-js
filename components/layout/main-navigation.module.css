@@ -8,10 +8,9 @@
 	justify-content: space-between;
 	align-items: center;
 	padding: 0 10%;
-	/* width: 100vw;
-	position: sticky;
+	z-index: 99999;
+	position: fixed;
 	top: 0;
-	z-index: 99999; */
 }
 
 .header ul {
@@ -44,5 +43,15 @@
 
 	.header a {
 		font-size: var(--size-5);
+	}
+}
+
+@media (max-width: 468px) {
+	.header nav {
+		flex: 1;
+	}
+	.header ul {
+		justify-content: space-between;
+		width: 100%;
 	}
 }
