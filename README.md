@@ -1,6 +1,5 @@
-<!-- @format -->
 
-# Instagram Clone
+# Next Js Blog
 
 Building my blog post with React Js + Next Js + Node.js + Express + MongoDB + CSS Modules + react-markdown + Vercel Hosting (a mobile-friendly)
 
@@ -51,7 +50,7 @@ Contributions are always welcome!
 
 ### <a href="https://github.com/saddamarbaa/blog-post-front-end-vanillaJS"> Github Repo </a>
 
-### Blog API with Node.js, Express, MongoDB, nd JSON Web Token Authentication
+### Blog API with Node.js, Express, MongoDB, and JSON Web Token Authentication
 
 ### <a href="https://github.com/saddamarbaa/blog-api"> Github Repo </a>
 
@@ -122,6 +121,8 @@ yarn dev
 ![image](https://user-images.githubusercontent.com/51326421/140636316-23151865-97ee-4164-aa56-0933547026fe.png)
 
 ![image](https://user-images.githubusercontent.com/51326421/140636309-aa13cfbb-ee75-44c4-8360-31cf71ff6d9f.png)
+
+## Responsive on mobile and tablet screens
 
 ![image](https://user-images.githubusercontent.com/51326421/140636515-f409c03f-60fb-4545-a00c-c218e98b07e1.png)
 
