@@ -9,11 +9,12 @@
 	border-radius: 6px;
 	padding: var(--size-4);
 	margin: var(--size-20) auto;
+	margin: 7rem auto;
+	margin-top: 13rem;
 }
 
 .content p {
 	color: var(--color-grey-800);
-	
 }
 
 .content .image {
